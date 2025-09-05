@@ -1,0 +1,23 @@
+{
+  "name": "Pixel Pass",
+  "description": "Unrevealed Shinigami Pixel Pass.",
+  "image": "https://ipfs.io/ipfs/QmSs9yeWcfLRrV5dTF4C2GH1zfb3KpC4EK1Wc5V2tj8LCQ",
+  "attributes": [
+    {
+      "trait_type": "Realm",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Unknown"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://ipfs.io/ipfs/QmSs9yeWcfLRrV5dTF4C2GH1zfb3KpC4EK1Wc5V2tj8LCQ"
+      }
+    ]
+  }
+}
